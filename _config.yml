@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/index"
+baseurl: ""
 url: "https://victorsonger.github.io/VictorsBlog/"
 title: Victor's blog # site's title
 description: "A website with blog posts and pages" # used by search engines
