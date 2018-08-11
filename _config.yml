@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 
-title:            Victor's
-tagline:          'Victor's Blog
+title:            'Victor's'
+tagline:          'Victor's Blog'
 description:      '这里是<a href="https://github.com/victorsonger/victorsblog.github.com" target="_bland">Victor</a>的一些想法'
 url:              https://victorsonger.github.io
                   # the optional subpath of your site, e.g. "/blog"
