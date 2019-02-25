@@ -6,7 +6,7 @@ highlighter:  rouge
 
 title: Victor
 tagline: "Victor's Blog"
-description: '这是<a href="https://github.com/victorsonger/victorsblog.github.com" target="_bland">Victor</a>的一些想法'
+description: '这里是<a href="https://github.com/victorsonger/victorsblog.github.com" target="_bland">Victor</a>的一些想法和记录'
 url: "https://victorsonger.github.io"
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -28,7 +28,6 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-version:            3.7.1
 sidebar_home_link:  true
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
