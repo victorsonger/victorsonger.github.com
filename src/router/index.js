@@ -1,5 +1,5 @@
 // import { createRouter, createWebHashHistory } from 'vue-router'
-import { createRouter, createWebHistory } from "@ionic/vue-router"; // 使用@ionic/vue-router代替vue-router
+import { createRouter, createWebHashHistory } from "@ionic/vue-router"; // 使用@ionic/vue-router代替vue-router
 // import Tabs from "../views/Tabs.vue";
 
 import HomePage from '../views/Home.vue';
@@ -19,7 +19,7 @@ const routes = [
 ];
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHashHistory(),
   routes,
 });
 
