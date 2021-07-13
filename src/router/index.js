@@ -19,7 +19,7 @@ const routes = [
 ];
 
 const router = createRouter({
-  history: createWebHashHistory(),
+  history: createWebHashHistory(), // 由于history形式的路由还需要配置服务端  不然到了新的路由，刷新页面就会404了。所以目前先用hash路由过渡一下
   routes,
 });
 

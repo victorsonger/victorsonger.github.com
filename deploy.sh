@@ -8,13 +8,13 @@ set -e
 # 构建
 npm run build
 
-cp -Rf ./dist/ ../victorsonger.github.com
+# cp -Rf ./dist/ ../victorsonger.github.com
 
-cd ../victorsonger.github.com
+# cd ../victorsonger.github.com
 
-git add -A
-git commit -m '主页结构调整'
-git push
+# git add -A
+# git commit -m '主页结构调整'
+# git push
 
 # 部署到自定义域域名
 # echo 'www.example.com' > CNAME
