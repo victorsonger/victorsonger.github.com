@@ -2,7 +2,10 @@
   <div class="home">
     <HomeContent :homeMsg="msg" @change-msg="changeMsg" />
     <ion-button @click="() => router.push('/about')">About</ion-button>
-    <A :c="123"></A>
+    <A :c="123">aaaaaaa
+      0000
+      <p>sdadasd</p>
+    </A>
   </div>
 </template>
 

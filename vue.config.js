@@ -5,8 +5,8 @@ module.exports = {
       // less 8.0之后的版本  配置有修改 https://segmentfault.com/a/1190000039190699
       // 但是上面链接中的改动 需要配合webpack5才行  本项目是webpack4
       // 所以采用降低less版本到7.3.0的方案
-      less: {
-      },
+      // less: {
+      // },
     },
   },
 };
